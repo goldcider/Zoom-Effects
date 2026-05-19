@@ -1,0 +1,17 @@
+curl -H "User-Agent: HandyGuitarLab/1.0" -o 6BandEQ.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o 7BandEQ.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o ParaEQ.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o StGtrGEQ.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o StBassGEQ.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o AcAutoEQ.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o AutoWah.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o ResoFltr.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o CryFltr.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o StepWah.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o SeqFltr.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o RandomFltr.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o BottomB.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o SubOct.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o SlowAtk.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o LineSel.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Mute.zip https://zoom.co.jp

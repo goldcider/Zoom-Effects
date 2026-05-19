@@ -1,0 +1,17 @@
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Booster_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o OverDrive_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o TSDrive_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o GoldDrive_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o DynamicOD_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o SweetDrive_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o RedCrunch_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Distortion_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Squeak_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o FuzzFace_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o GreatMuff_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o MetalWRLD_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o HotBox_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Governor_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o OctFuzz_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Zen_OD_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o ExtremeDS_1U.zip https://zoom.co.jp

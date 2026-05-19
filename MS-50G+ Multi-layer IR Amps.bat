@@ -1,0 +1,16 @@
+curl -H "User-Agent: HandyGuitarLab/1.0" -o FD_DLXR.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o FD_BMAN.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o HW_100.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o MS_1959.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o MS_800.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o VX_AC30.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o OR_120.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o MATCH_30.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o BG_XTNSY.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o DZ_DRIVE.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o RECTI_G.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o PV_5150.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Krampus.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Redloom.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Velvet.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Muddy.zip https://zoom.co.jp

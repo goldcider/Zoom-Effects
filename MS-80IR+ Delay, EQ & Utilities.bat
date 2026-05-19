@@ -1,0 +1,12 @@
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Delay.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o AnalogDly.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o TapeEcho3.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o ModDelay.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o 6BandEQ.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o 7BandEQ.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o ParaEQ.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o RackComp.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o NoiseGate.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o ZNR.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o LineSel.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Mute.zip https://zoom.co.jp

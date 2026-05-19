@@ -1,0 +1,17 @@
+curl -H "User-Agent: HandyGuitarLab/1.0" -o SansAmp_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o MXR_DI_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Darkglass_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o BaOD_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o BaDist_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o BaFuzz_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o BassBB_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o BassMuff_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o BassTS_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o DgDrive_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o DgFuzz_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o RatBass_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o SwollenB_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o WoollyM_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o AgroBass_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o RedCrunch_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o MetalZ_1U.zip https://zoom.co.jp

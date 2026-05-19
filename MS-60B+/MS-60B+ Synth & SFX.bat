@@ -1,0 +1,9 @@
+curl -H "User-Agent: HandyGuitarLab/1.0" -o BassSynth.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o BitCrush.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Bomber.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o CombFltr.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o MonoSynth.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o StandardSynth.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o SynTrak.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o VeloSynth.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Z-Organ.zip https://zoom.co.jp

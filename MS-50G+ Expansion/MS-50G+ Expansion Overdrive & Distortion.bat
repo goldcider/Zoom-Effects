@@ -1,0 +1,11 @@
+curl -H "User-Agent: HandyGuitarLab/1.0" -o GridSlam.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o MetalZ.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o TS_Boost.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Z_Bottom.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o DynaDrive.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o MatchLess.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Booster7.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o RevoDrive.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o ExtremeDS.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o HPSatura.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o OctFuzz.zip https://zoom.co.jp

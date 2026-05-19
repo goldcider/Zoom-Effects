@@ -1,0 +1,9 @@
+curl -H "User-Agent: HandyGuitarLab/1.0" -o BaComp_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o RackComp_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Limiter_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o BaLimiter_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o BlackOpt_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o DualComp_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o SlowATTCK_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o ZNREng_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o NoiseGate_1U.zip https://zoom.co.jp

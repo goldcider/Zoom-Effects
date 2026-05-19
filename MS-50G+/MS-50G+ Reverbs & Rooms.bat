@@ -1,0 +1,13 @@
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Room.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Hall.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Plate.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Spring.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Arena.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Church.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o EarlyRef.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o TileRoom.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o GateRev.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o HD_Hall.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o ModReverb.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o ShimmerRev.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o MangledSp.zip https://zoom.co.jp

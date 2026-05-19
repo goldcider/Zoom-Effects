@@ -1,0 +1,11 @@
+curl -H "User-Agent: HandyGuitarLab/1.0" -o AGComp_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o BlackOpt_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o LMT-76_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o SaxPre_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o TpPre_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o VnPre_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o HmBullet_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o SlowATTCK_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o ZNREng_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o NoiseGate_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o LineSel_1U.zip https://zoom.co.jp

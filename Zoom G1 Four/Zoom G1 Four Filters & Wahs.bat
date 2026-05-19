@@ -1,0 +1,13 @@
+curl -H "User-Agent: HandyGuitarLab/1.0" -o AutoWah_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Resonance_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Cry_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o SeqFLTR_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o RndmFLTR_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o GtGEQ_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o GtGEQ7_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o ParaEQ_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Exciter_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Step_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o AutoPan_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o BlackWah_1U.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o ChromeWah_1U.zip https://zoom.co.jp

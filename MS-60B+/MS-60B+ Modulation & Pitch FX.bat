@@ -1,0 +1,16 @@
+curl -H "User-Agent: HandyGuitarLab/1.0" -o BaChorus.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o BaDetune.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o BaFlanger.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o BaPhaser.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o BaPitch.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o CoronaCho.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Ensemble.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o HPS.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o MonoPitch.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o PitchSft.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o RingMod.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o StereoCho.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o TheVibe.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Tremolo.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Trichorus.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Vibrato.zip https://zoom.co.jp

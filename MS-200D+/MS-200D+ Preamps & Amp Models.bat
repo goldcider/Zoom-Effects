@@ -1,0 +1,17 @@
+curl -H "User-Agent: HandyGuitarLab/1.0" -o UK_GoldPre.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Recti_Pre.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Twin_Pre.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o Deluxe_Pre.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o VoxAC30Pre.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o HiwattPre.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o OrangePre.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o MatchlessPre.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o BognerPre.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o DiezelPre.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o FriedmanPre.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o SoldanoPre.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o 5150Pre.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o DumblePre.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o AmpegPre.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o AcousticPre.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o JazzChorusPre.zip https://zoom.co.jp

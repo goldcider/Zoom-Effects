@@ -1,0 +1,13 @@
+curl -H "User-Agent: HandyGuitarLab/1.0" -o BaBB.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o BaBskDrive.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o BaDiPlus.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o BaDistM.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o BaDrive.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o BaMetalZ.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o BaMuff.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o BaOd.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o BassPre.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o BassSaturator.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o BaSmasher.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o BaTS_Drive.zip https://zoom.co.jp
+curl -H "User-Agent: HandyGuitarLab/1.0" -o D_Bottom.zip https://zoom.co.jp

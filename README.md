@@ -1,5 +1,5 @@
 # Zoom-Effects
-Batch downloaders for .ZD2 .ZIC .ZIR effect files
+Batch downloaders for .ZD2 / .ZIC / .ZIR effect files
 
 This repository was inspired by the brilliant work put in by `@mungewell`, `@thammer` and `@fuzboxz` in order to make Zoom pedal effects available to non-iOS users and is designed to supplement the use of zoom-zt2. Below are the links to their respective work:  
 
@@ -12,7 +12,7 @@ During my attempts to access the .lst effects lists using zdownload.py that I ne
 
 After a lot of research and many discussions with AI (my mentor in terminal commands) - I stumbled across the curl download query alternative to using Python.
 
-Here is a collection of .bat files containing download commands for what I believe to be the entire range of Zoom+ pedals that rely on .ZD2 and .ZIC formats for their effects.
+Here is a collection of .bat files containing download commands for what I believe to be the entire range of Zoom+ pedals that rely on .ZD2 /.ZIC / .ZIR formats for their effects.
 
 Here is an example of the curl commands contained within the .bat files:  
 ```batch

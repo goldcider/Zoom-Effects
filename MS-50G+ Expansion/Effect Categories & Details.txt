@@ -1,0 +1,33 @@
+:: Dynamics & Filters ::
+OPTCOMP, OptComp (v1.10 12.72%)
+RESONANC, Reso FLTR (v1.10 7.96%)
+CRY, CryFilter (v1.10 5.90%)
+EGFLTR1U, EG Filter (v1.10 11.40%)
+LFO_FLTR, LFO FLTR (v1.10 8.61%)
+SEQFLTR, SeqFLTR (v1.10 8.53%)
+RNDMFLTR, RndmFLTR (v1.10 8.20%)
+STEP5G, StepFLTR (v1.10 7.96%)
+GT_GEQ1U, Gt GEQ (v1.10 5.90%)
+EXCITER, Exciter (v1.10 8.70%)
+
+:: Overdrives & Distortions ::
+BG_GRID, BG GRID (v1.10 10.20%)
+WAVSHPR, WaveSHPR (v1.10 13.92%)
+RAZORDRV, Razor DRV (v1.10 13.98%)
+MTLWRLD, MetalWRLD (v1.10 12.80%)
+BGTHRTTL, HG THRTTL (v1.10 11.86%)
+TS_BST1U, TS+Boost (v1.10 12.67%)
+
+:: Modulation & Pitch Shifting ::
+BENDCHO, BendCho (v1.10 8.70%)
+WRPPHASE, WarpPhase (v1.10 9.02%)
+DUOPHA1U, Duo Phase (v1.10 9.84%)
+KKFLNG1U, Kick FLNG (v1.20 6.97%)
+SWELLVIB, SwellVibe (v1.10 9.76%)
+
+:: Special SFX & Utility Blocks ::
+HOTSPICE, Sitar Sim (v1.10 13.78%)
+
+:: Delays ::
+PHASDL_M, PhaseDly (v1.10 11.89%)
+SLATDL_M, SlwAtkDly (v1.10 12.82%)

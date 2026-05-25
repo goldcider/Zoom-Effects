@@ -84,7 +84,7 @@ GEMINOS.ZD2, GEMINOS (v1.10 10.42%)
 RINGMOD.ZD2, RingMod (v1.10 4.76%)
 SLICER.ZD2, Slicer (v1.10 8.28%)
 
-:: Special SFX & Utility Blocks ::
+:: SFX & Utility Blocks ::
 AUTOPAN.ZD2, AutoPan (v1.10 4.10%)
 LOOPROLL.ZD2, LoopRoll (v1.10 5.46%)
 BOMBER.ZD2, Bomber (v1.10 8.45%)

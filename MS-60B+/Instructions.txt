@@ -1,0 +1,9 @@
+:: Instructions ::
+
+Download/copy the files Downloader.bat and wordlist.txt and place them in a suitably named folder.
+
+Run Downloader.bat and wait for process to finish.
+
+Load files on to your device using zoom zt2.
+
+Enjoy!

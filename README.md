@@ -50,9 +50,9 @@ Each device has it's own associated wordlist.txt that is required in order to fe
 These commands can access the entire effects collection for the following devices:  
 MS-50G+ (102 Effects)  
 MS-50G+ Expansion (24 Effects)  
-MS-60B+ (112 Effects) - In Progress
-MS-70CDR+ (122 Effects) - In Progress
-MS-80IR+ (40 Effects) - In Progress
+MS-60B+ (98 Effects)
+MS-70CDR+ (150 Effects)
+MS-80IR+ (40 Effects)
 MS-200D+ (73 Effects)
 Zoom A1 Four (75 Effects) - Not currently available  
 Zoom B1 Four (78 Effects) - Not currently available  

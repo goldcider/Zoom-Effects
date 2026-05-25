@@ -25,7 +25,7 @@ DUOPHA1U, Duo Phase (v1.10 9.84%)
 KKFLNG1U, Kick FLNG (v1.20 6.97%)
 SWELLVIB, SwellVibe (v1.10 9.76%)
 
-:: Special SFX & Utility Blocks ::
+:: SFX & Utility Blocks ::
 HOTSPICE, Sitar Sim (v1.10 13.78%)
 
 :: Delays ::

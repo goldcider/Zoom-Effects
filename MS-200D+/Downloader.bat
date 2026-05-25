@@ -3,7 +3,7 @@ set "UA=User-Agent: HandyGuitarLab/1.0"
 set CURL=curl -L -H "%UA%" -o
 
 set "URL=https://www.zoom.co.jp/archive/GUITAR_LAB"
-set "MOD=%URL%/HGL_for_MS50G_Plus"
+set "MOD=%URL%/HGL_for_MS200D_Plus"
 set "ZD2=%MOD%/ZDLF"
 set "ZIC=%MOD%/EffectIcon/ZIC"
 set "ZIR=%MOD%/ZIR"

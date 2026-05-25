@@ -54,8 +54,8 @@ MS-60B+ (98 Effects)
 MS-70CDR+ (150 Effects)  
 MS-80IR+ (40 Effects)  
 MS-200D+ (73 Effects)  
-Zoom A1 Four (75 Effects) - Not currently available  
-Zoom B1 Four (78 Effects) - Not currently available  
-Zoom G1 Four (85 Effects) - Not currently available  
+Zoom A1 Four (75 Effects) - In progress  
+Zoom B1 Four (78 Effects) - In progress  
+Zoom G1 Four (85 Effects) - In progress  
 
 If I have missed any, or anyone wishes to add to this repository by making curl commands for Zoom pedals outside of the + range then feel free to contact me on here.

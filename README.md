@@ -53,7 +53,7 @@ MS-50G+ Expansion (24 Effects)
 MS-60B+ (112 Effects) - In Progress
 MS-70CDR+ (122 Effects) - In Progress
 MS-80IR+ (40 Effects) - In Progress
-MS-200D+ (179 Effects) - In Progress
+MS-200D+ (73 Effects)
 Zoom A1 Four (75 Effects) - Not currently available  
 Zoom B1 Four (78 Effects) - Not currently available  
 Zoom G1 Four (85 Effects) - Not currently available  
